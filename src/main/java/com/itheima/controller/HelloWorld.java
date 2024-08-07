@@ -10,8 +10,8 @@ public class HelloWorld {
 
     @GetMapping("")
     public String hello(){
-        System.out.println("hello World....");
+        System.out.println("hello World....2222222");
 
-        return "OK";
+        return "OK22222222";
     }
 }
